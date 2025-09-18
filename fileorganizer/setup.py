@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 # Package metadata
 setup(
     name="fileorganizer-farhan",
-    version="0.1.0",
+    version="0.1.1",
     author="Farhan Ahmad",
     author_email="farhanbangash091@gmail.com",
     description="A tool to organize messy files into categorized folders",

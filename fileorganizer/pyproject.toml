@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fileorganizer-farhan"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
     {name = "Farhan Ahmad", email = "farhanbangash091@gmail.com"},
 ]
