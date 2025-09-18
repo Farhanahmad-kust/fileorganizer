@@ -7,7 +7,7 @@ This guide will help you set up the development environment for contributing to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fileorganizer.git
+git clone https://github.com/Farhanahmad-kust/fileorganizer.git
 cd fileorganizer
 ```
 

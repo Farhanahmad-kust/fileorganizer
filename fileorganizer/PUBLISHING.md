@@ -84,7 +84,7 @@ For more secure authentication, use API tokens instead of your password:
 After publishing, you can install your package with pip:
 
 ```bash
-pip install fileorganizer
+pip install fileorganizer-farhan
 ```
 
 ## Development Installation

@@ -26,7 +26,7 @@ keywords = ["file organization", "cleanup", "automation"]
 
 [project.urls]
 "Homepage" = "https://github.com/Farhanahmad-kust/fileorganizer"
-"Bug Tracker" = "https://github.com/FarhanAhmad/fileorganizer/issues"
+"Bug Tracker" = "https://github.com/Farhanahmad-kust/fileorganizer/issues"
 
 [project.scripts]
 fileorganizer = "fileorganizer.cli:main"
